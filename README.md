@@ -2,11 +2,9 @@
 <h3 align="center">A passionate software developer</h3>
 <img align="right" alt="Coding" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNvGkqpl70Z4ObkPIVxV9P7yny2cBrCtSEUHQF5sLdIPipymfq4rWKGQea7zr5ky9IbBX3seWci1GVkV_iO-2r2d66tl0ISAeju7GXXMOE1KklJMLNZzQTHC-L4zHZK5lYqEAf0_ki1B2ECMI-VfzCeJ3aTAIGAOjGgF1UHsCM2RibfrZggQlF3_3z/s1600/image1.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enriqmancomp&label=Profile%20views&color=0e75b6&style=flat" alt="enriqmancomp" /> </p>
+- 🔭 I’m currently studying **Master's degree in Computer Science**
 
-- 🔭 I’m currently working on **Reinforcement learning in Robotics**
-
-- 🌱 I’m currently learning **Computer Science**
+- 🌱 I’m currently learning **Reinforcement learning in Robotics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
