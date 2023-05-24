@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying **Master's degree in Computer Science**
 
-- 🌱 I’m currently learning **Reinforcement learning in Robotics**
+- 🌱 I’m currently learning **Deep Reinforcement learning in Robotics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
