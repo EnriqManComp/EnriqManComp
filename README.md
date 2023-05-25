@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Enrique Companioni</h1>
 <h3 align="center">A passionate software developer</h3>
-<img align="right" alt="Coding" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNvGkqpl70Z4ObkPIVxV9P7yny2cBrCtSEUHQF5sLdIPipymfq4rWKGQea7zr5ky9IbBX3seWci1GVkV_iO-2r2d66tl0ISAeju7GXXMOE1KklJMLNZzQTHC-L4zHZK5lYqEAf0_ki1B2ECMI-VfzCeJ3aTAIGAOjGgF1UHsCM2RibfrZggQlF3_3z/s1600/image1.gif">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWU2YWM3NDZjYWZmMDQ1MWVkNWI3MTgzMWJhOTI0MzBiNzE1ZTQ4YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/Tgw604MyLJnDtbi4t0/giphy.gif">
 
 - 🔭 I’m currently studying **Master's degree in Computer Science**
 
