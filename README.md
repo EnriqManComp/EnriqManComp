@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Enrique Companioni</h1>
 <h3 align="center">Software developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWU2YWM3NDZjYWZmMDQ1MWVkNWI3MTgzMWJhOTI0MzBiNzE1ZTQ4YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/Tgw604MyLJnDtbi4t0/giphy.gif">
+<img align="right" alt="Coding" width="400" src="Overview.gif">
 
 - 🔭 I’m currently studying **Master's degree in Computer Science**
 
