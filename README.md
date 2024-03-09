@@ -4,9 +4,9 @@
 <div>
   <img align="right" alt="Coding" width="350" src="Overview.gif">
   
-🔭 I’m currently studying **Master's degree in Computer Science**
+🎓 I’m currently studying **Master's degree in Computer Science**
   
-🌱 I’m currently learning **Deep Reinforcement Learning in Pursuit-Evasion Problems**
+ 🤖 🤖 I’m currently learning **Deep Reinforcement Learning in Pursuit-Evasion Problems**
   
   <h3 align="left">Connect with me:</h3>
   <p align="left">
