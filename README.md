@@ -10,7 +10,8 @@
   
   <h3 align="left">Connect with me:</h3>
   <p align="left">
-  <a href="https://www.linkedin.com/in/enrique-companioni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/enrique-companioni/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/enrique-companioni/" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="https://www.linkedin.com/in/enrique-companioni/" height="30" width="60" /></a>
+  <a href="https://www.coursera.org/user/32f6decb5d42361c75df8bfa589bf87a" target="blank"><img align="center" src="https://about.coursera.org/static/whiteCoursera-23ec484f7091914430ce19b07d09aedf.svg" alt="coursera" height="30" width="60" /></a>
   </p>
 </div>
 <h3 align="left">Languages and Tools:</h3>
