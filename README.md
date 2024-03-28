@@ -32,6 +32,7 @@
 - Robotics
   * ![Differential drive robot (DDR) model design using ROS and Gazebo](https://github.com/EnriqManComp/differential-drive-robot-model-ros-gazebo)
 
+<hr />
 
 **<h2>Languages and Tools</h2>**
 
