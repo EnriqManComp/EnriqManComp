@@ -6,6 +6,8 @@
   
  🤖 🤖 Conducting research on **Deep Reinforcement Learning in Pursuit-Evasion Problems**
 
+ 📖👨🏻‍💻 Always learning data science, artificial intelligence and programming.
+
  <hr />
   
 **<h2>Contact with me</h2>**
