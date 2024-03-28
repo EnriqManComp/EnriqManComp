@@ -2,11 +2,11 @@
 
 **<h2>About me</h2>**
  
-🎓 Pursuing M.Sc. in Computer Science
+- 🎓 Pursuing M.Sc. in Computer Science
   
- 🤖 🤖 Conducting research on **Deep Reinforcement Learning in Pursuit-Evasion Problems**
+- 🤖 🤖 Conducting research on **Deep Reinforcement Learning in Pursuit-Evasion Problems**
 
- 📖👨🏻‍💻 Always learning data science, artificial intelligence and programming.
+- 📖👨🏻‍💻 Always learning data science, artificial intelligence and programming.
 
  <hr />
   
