@@ -20,15 +20,15 @@
 
 **<h2>Main Projects</h2>**
 - Deep Reinforcement Learning
-  * ![Lunar Lander problem using Dueling DoubleDQN (D3QN)](https://github.com/EnriqManComp/Lunar-Lander-DRL-Dueling-DoubleDQN)
-  * ![Smart disks](https://github.com/EnriqManComp/smart-disks)
+  * [Lunar Lander problem using Dueling DoubleDQN (D3QN)](https://github.com/EnriqManComp/Lunar-Lander-DRL-Dueling-DoubleDQN)
+  * [Smart disks](https://github.com/EnriqManComp/smart-disks)
 - Regression
-  * ![Nutrition Food Insight Analysis Competition 🏆](https://github.com/EnriqManComp/Nutrition-Food-Insight-Analysis-Competition)
+  * [Nutrition Food Insight Analysis Competition 🏆](https://github.com/EnriqManComp/Nutrition-Food-Insight-Analysis-Competition)
 - Classification
-  * ![Efficient Automation of Recipe Selection: Boosting Traffic with Machine Learning](https://github.com/EnriqManComp/Efficient-Automation-of-Recipe-Selection-Boosting-Traffic-with-Machine-Learning)
-  * ![Mango Leaf Disease Classification](https://github.com/EnriqManComp/Mango-Leaf-Disease-Classification)
+  * [Efficient Automation of Recipe Selection: Boosting Traffic with Machine Learning](https://github.com/EnriqManComp/Efficient-Automation-of-Recipe-Selection-Boosting-Traffic-with-Machine-Learning)
+  * [Mango Leaf Disease Classification](https://github.com/EnriqManComp/Mango-Leaf-Disease-Classification)
 - Robotics
-  * ![Differential drive robot (DDR) model design using ROS and Gazebo](https://github.com/EnriqManComp/differential-drive-robot-model-ros-gazebo)
+  * [Differential drive robot (DDR) model design using ROS and Gazebo](https://github.com/EnriqManComp/differential-drive-robot-model-ros-gazebo)
 
 <hr />
 
