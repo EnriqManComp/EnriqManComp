@@ -16,6 +16,21 @@
   <img src="https://www.dataapplab.com/wp-content/uploads/2017/06/kaggle-logo-gray-300.png" width="60px" height="20px">
 </a>
 
+<hr />
+
+**<h2>Main Projects</h2>**
+- Deep Reinforcement Learning
+  * ![Lunar Lander problem using Dueling DoubleDQN (D3QN)](https://github.com/EnriqManComp/Lunar-Lander-DRL-Dueling-DoubleDQN)
+  * ![Smart disks](https://github.com/EnriqManComp/smart-disks)
+- Regression
+  * ![Nutrition Food Insight Analysis Competition 🏆](https://github.com/EnriqManComp/Nutrition-Food-Insight-Analysis-Competition)
+- Classification
+  * ![Efficient Automation of Recipe Selection: Boosting Traffic with Machine Learning](https://github.com/EnriqManComp/Efficient-Automation-of-Recipe-Selection-Boosting-Traffic-with-Machine-Learning)
+  * ![Mango Leaf Disease Classification](https://github.com/EnriqManComp/Mango-Leaf-Disease-Classification)
+- Robotics
+  * ![Differential drive robot (DDR) model design using ROS and Gazebo](https://github.com/EnriqManComp/differential-drive-robot-model-ros-gazebo)
+
+
 **<h2>Languages and Tools</h2>**
 
 <p align="left">
@@ -27,6 +42,8 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>  
 </p>
+
+<hr />
 
 
 
