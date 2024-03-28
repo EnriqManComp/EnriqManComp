@@ -8,9 +8,7 @@
 
 - 📖👨🏻‍💻 Always learning data science, artificial intelligence and programming.
 
- <hr />
-  
-**<h2>Contact with me</h2>**
+**<h3>Contact with me</h3>**
 
 [![github](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-companioni/)
 [![gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:enriquecompanionidev@gmail.com)
