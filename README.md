@@ -30,7 +30,8 @@
   * [Mango Leaf Disease Classification](https://github.com/EnriqManComp/Mango-Leaf-Disease-Classification)
 - Robotics
   * [Differential drive robot (DDR) model design using ROS and Gazebo](https://github.com/EnriqManComp/differential-drive-robot-model-ros-gazebo)
-
+- Other Projects
+  * [Image Enhancement and Impulsive Noise Removal](https://github.com/EnriqManComp/image-enhancement-and-impulsive-noise-removal)
 <hr />
 
 **<h2>Languages and Tools</h2>**
