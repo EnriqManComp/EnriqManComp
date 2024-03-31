@@ -21,6 +21,7 @@
 **<h2>Main Projects</h2>**
 - Deep Reinforcement Learning
   * [Lunar Lander problem using Dueling DoubleDQN (D3QN)](https://github.com/EnriqManComp/Lunar-Lander-DRL-Dueling-DoubleDQN)
+  * [Cart Pole problem using Proximal Policy Optimization (PPO)](https://github.com/EnriqManComp/Deep-Reinforcement-Learning-Algorithm/tree/master/PPO)
   * [Smart disks](https://github.com/EnriqManComp/smart-disks)
 - Regression
   * [Nutrition Food Insight Analysis Competition 🏆](https://github.com/EnriqManComp/Nutrition-Food-Insight-Analysis-Competition)
