@@ -26,7 +26,6 @@
 - Regression
   * [Nutrition Food Insight Analysis Competition 🏆](https://github.com/EnriqManComp/Nutrition-Food-Insight-Analysis-Competition)
   * [House Prices Prediction using Blending Ensemble 🏆](https://github.com/EnriqManComp/kaggle-competitions.git)
-  * 
 - Classification
   * [Efficient Automation of Recipe Selection: Boosting Traffic with Machine Learning](https://github.com/EnriqManComp/Efficient-Automation-of-Recipe-Selection-Boosting-Traffic-with-Machine-Learning)
   * [Mango Leaf Disease Classification](https://github.com/EnriqManComp/Mango-Leaf-Disease-Classification)
