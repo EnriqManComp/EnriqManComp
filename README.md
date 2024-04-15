@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Enrique Companioni</h1>
 
 **<h2>About me</h2>**
- 
+
 - 🎓 Pursuing M.Sc. in Computer Science
   
 - 🤖 🤖 Conducting research on **Deep Reinforcement Learning in Pursuit-Evasion Problems**
 
 - 📖👨🏻‍💻 Always learning data science, artificial intelligence and programming.
+
+- 📝✍🏻 [My personal blog](https://enriquecompanioni.me/)
 
 **<h3>Contact with me</h3>**
 
