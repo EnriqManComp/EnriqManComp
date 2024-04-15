@@ -3,6 +3,8 @@
 **<h2>About me</h2>**
 
 - 📖👨🏻‍💻 Always learning data science, artificial intelligence and programming.
+
+- 💡🏆 Solving problems and challenges on Kaggle and Codeforces.
   
 - 🎓 Pursuing M.Sc. in Computer Science.
   
