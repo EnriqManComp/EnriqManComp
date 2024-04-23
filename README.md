@@ -26,7 +26,8 @@
 - Deep Reinforcement Learning
   * [Lunar Lander problem using Dueling DoubleDQN (D3QN)](https://github.com/EnriqManComp/Lunar-Lander-DRL-Dueling-DoubleDQN)
   * [Cart Pole problem using Proximal Policy Optimization (PPO)](https://github.com/EnriqManComp/Deep-Reinforcement-Learning-Algorithm/tree/master/PPO)
-  * [Smart disks](https://github.com/EnriqManComp/smart-disks)
+  * [Smart disks - D3QN](https://github.com/EnriqManComp/smart-disks-d3qn)
+  * [Smart disks - PPO](https://github.com/EnriqManComp/smart-disks-PPO)
 - Regression
   * [Nutrition Food Insight Analysis Competition 🏆](https://github.com/EnriqManComp/Nutrition-Food-Insight-Analysis-Competition)
   * [House Price Predictions 🥉🏆](https://github.com/EnriqManComp/kaggle-competitions.git)
