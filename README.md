@@ -33,7 +33,7 @@
 - Classification
   * [Efficient Automation of Recipe Selection: Boosting Traffic with Machine Learning](https://github.com/EnriqManComp/Efficient-Automation-of-Recipe-Selection-Boosting-Traffic-with-Machine-Learning)
   * [Mango Leaf Disease Classification](https://github.com/EnriqManComp/Mango-Leaf-Disease-Classification)
-  * [Dog Breed Classification using ResNet50-InceptionV3 🏆](https://github.com/EnriqManComp/kaggle-competitions.git)
+  * [Dog Breed Classification using ResNet50-InceptionV3 🥉🏆](https://github.com/EnriqManComp/kaggle-competitions.git)
   * [Dog Breed Classifier using Multi-Sample Dropout 🏆](https://github.com/EnriqManComp/kaggle-competitions.git)
 - Robotics
   * [Differential drive robot (DDR) model design using ROS and Gazebo](https://github.com/EnriqManComp/differential-drive-robot-model-ros-gazebo)
