@@ -58,6 +58,17 @@
 
 <hr />
 
+<!--
+**<h2>Stats</h2>**
+
+![Enrique's github stats](https://github-profile-trophy.vercel.app/?username=EnriqManComp&theme=dracula)
+
+---
+
+![Enrique's github stats](https://github-readme-stats.vercel.app/api?username=EnriqManComp&show_icons=true&include_all_commits=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqManComp&layout=compact&theme=radical&langs_count=10)
+
+-->
 
 
 
