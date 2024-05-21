@@ -32,7 +32,7 @@
   * [Nutrition Food Insight Analysis Competition 🏆](https://github.com/EnriqManComp/Nutrition-Food-Insight-Analysis-Competition)
   * [House Price Predictions 🥉🏆](https://github.com/EnriqManComp/kaggle-competitions.git)
 - Classification
-  * [Efficient Automation of Recipe Selection: Boosting Traffic with Machine Learning](https://github.com/EnriqManComp/Efficient-Automation-of-Recipe-Selection-Boosting-Traffic-with-Machine-Learning)
+  * [Efficient Automation of Recipe Selection: Boosting Traffic with Machine Learning 🥉](https://github.com/EnriqManComp/Efficient-Automation-of-Recipe-Selection-Boosting-Traffic-with-Machine-Learning)
   * [Mango Leaf Disease Classification](https://github.com/EnriqManComp/Mango-Leaf-Disease-Classification)
   * [Dog Breed Classification using ResNet50-InceptionV3 🥉🏆](https://github.com/EnriqManComp/kaggle-competitions.git)
   * [Dog Breed Classifier using Multi-Sample Dropout 🏆](https://github.com/EnriqManComp/kaggle-competitions.git)
