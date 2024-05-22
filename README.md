@@ -10,7 +10,7 @@
   
 - 🤖 🤖 Conducting research on **Deep Reinforcement Learning in Pursuit-Evasion Problems**
   
-<!-->- 📝✍🏻 [My personal blog](https://enriquecompanioni.me/)<--!>
+<!-- 📝✍🏻 [My personal blog](https://enriquecompanioni.me/) -->
 
 **<h3>Contact with me</h3>**
 
