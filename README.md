@@ -36,13 +36,14 @@
   * [Mango Leaf Disease Classification](https://github.com/EnriqManComp/Mango-Leaf-Disease-Classification)
   * [Dog Breed Classification using ResNet50-InceptionV3 🥉🏆](https://github.com/EnriqManComp/kaggle-competitions.git)
   * [Dog Breed Classifier using Multi-Sample Dropout 🏆](https://github.com/EnriqManComp/kaggle-competitions.git)
+- Style Transfer
+  * [Style Transfer with PyTorch 🏆](https://github.com/EnriqManComp/kaggle-competitions.git)
 - Robotics
   * [Differential drive robot (DDR) model design using ROS and Gazebo](https://github.com/EnriqManComp/differential-drive-robot-model-ros-gazebo)
   * [Differential Drive Robot Simulation in Pygame](https://github.com/EnriqManComp/Differential-Drive-Robot-Simulation-in-Pygame)
   * [Autonomous Path Maintenance using ROS and Turtlebot3](https://github.com/EnriqManComp/Autonomous-Path-Maintenance-ROS-turtlebot3)
 - Other Projects
   * [Image Enhancement and Impulsive Noise Removal](https://github.com/EnriqManComp/image-enhancement-and-impulsive-noise-removal)
-  * [Style Transfer with PyTorch 🏆](https://github.com/EnriqManComp/kaggle-competitions.git)
 <hr />
 
 **<h2>Languages and Tools</h2>**
