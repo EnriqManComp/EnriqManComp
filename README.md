@@ -41,7 +41,7 @@
 - Robotics
   * [Differential drive robot (DDR) model design using ROS and Gazebo](https://github.com/EnriqManComp/differential-drive-robot-model-ros-gazebo)
   * [Differential Drive Robot Simulation in Pygame](https://github.com/EnriqManComp/Differential-Drive-Robot-Simulation-in-Pygame)
-  * [Autonomous Path Maintenance using ROS and Turtlebot3](https://github.com/EnriqManComp/Autonomous-Path-Maintenance-ROS-turtlebot3)
+  * [Autonomous Path Pilot using ROS and Turtlebot3](https://github.com/EnriqManComp/Autonomous-Path-Maintenance-ROS-turtlebot3)
 - Other Projects
   * [Image Enhancement and Impulsive Noise Removal](https://github.com/EnriqManComp/image-enhancement-and-impulsive-noise-removal)
 <hr />
