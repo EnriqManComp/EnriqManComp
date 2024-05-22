@@ -42,6 +42,7 @@
   * [Autonomous Path Maintenance using ROS and Turtlebot3](https://github.com/EnriqManComp/Autonomous-Path-Maintenance-ROS-turtlebot3)
 - Other Projects
   * [Image Enhancement and Impulsive Noise Removal](https://github.com/EnriqManComp/image-enhancement-and-impulsive-noise-removal)
+  * [Style Transfer with PyTorch 🏆](https://github.com/EnriqManComp/kaggle-competitions.git)
 <hr />
 
 **<h2>Languages and Tools</h2>**
