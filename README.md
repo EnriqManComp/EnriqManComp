@@ -28,20 +28,20 @@
   * [Cart Pole problem using Proximal Policy Optimization (PPO)](https://github.com/EnriqManComp/Deep-Reinforcement-Learning-Algorithm/tree/master/PPO)
   * [Smart disks - D3QN](https://github.com/EnriqManComp/smart-disks-d3qn)
   * [Smart disks - PPO](https://github.com/EnriqManComp/smart-disks-PPO)
-- Regression
+- Machine Learning
   * [Nutrition Food Insight Analysis Competition 🏆](https://github.com/EnriqManComp/Nutrition-Food-Insight-Analysis-Competition)
   * [House Price Predictions 🥉🏆](https://github.com/EnriqManComp/kaggle-competitions.git)
-- Classification
   * [Efficient Automation of Recipe Selection: Boosting Traffic with Machine Learning 🥉](https://github.com/EnriqManComp/Efficient-Automation-of-Recipe-Selection-Boosting-Traffic-with-Machine-Learning)
   * [Mango Leaf Disease Classification](https://github.com/EnriqManComp/Mango-Leaf-Disease-Classification)
   * [Dog Breed Classification using ResNet50-InceptionV3 🥉🏆](https://github.com/EnriqManComp/kaggle-competitions.git)
   * [Dog Breed Classifier using Multi-Sample Dropout 🏆](https://github.com/EnriqManComp/kaggle-competitions.git)
-- Style Transfer
   * [Style Transfer with PyTorch 🏆](https://github.com/EnriqManComp/kaggle-competitions.git)
-- Robotics
+- Robotics & Simulation
   * [Differential drive robot (DDR) model design using ROS and Gazebo](https://github.com/EnriqManComp/differential-drive-robot-model-ros-gazebo)
   * [Differential Drive Robot Simulation in Pygame](https://github.com/EnriqManComp/Differential-Drive-Robot-Simulation-in-Pygame)
   * [Autonomous Path Pilot using ROS and Turtlebot3](https://github.com/EnriqManComp/Autonomous-Path-Maintenance-ROS-turtlebot3)
+- Data Analysis & Visualization & Databases
+  * [Los Angeles Crime Analysis](https://github.com/EnriqManComp/LA_crime_project)
 - Other Projects
   * [Image Enhancement and Impulsive Noise Removal](https://github.com/EnriqManComp/image-enhancement-and-impulsive-noise-removal)
 <hr />
