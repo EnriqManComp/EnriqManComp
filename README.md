@@ -2,14 +2,12 @@
 
 **<h2>About me</h2>**
 
-- 📖👨🏻‍💻 Always learning data science, artificial intelligence and programming.
+- 📖👨🏻‍💻 Always learning data engineering, machine learning and programming.
 
-- 💡🏆 Solving problems and challenges on Kaggle and Codeforces.
+- 💡🏆 Solving problems and challenges on Kaggle.
   
-- 🎓 Pursuing M.Sc. in Computer Science.
-  
-- 🤖 🤖 Conducting research on **Deep Reinforcement Learning in Pursuit-Evasion Problems**
-  
+- 🎓 M.Sc. in Computer Science.
+-   
 <!-- 📝✍🏻 [My personal blog](https://enriquecompanioni.me/) -->
 
 **<h3>Contact with me</h3>**
