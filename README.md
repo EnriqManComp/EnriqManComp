@@ -7,7 +7,7 @@
 - 💡🏆 Solving problems and challenges on Kaggle.
   
 - 🎓 M.Sc. in Computer Science.
--   
+  
 <!-- 📝✍🏻 [My personal blog](https://enriquecompanioni.me/) -->
 
 **<h3>Contact with me</h3>**
