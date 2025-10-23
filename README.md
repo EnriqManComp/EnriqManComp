@@ -2,7 +2,7 @@
 
 **<h2>About me</h2>**
 
-- 📖👨🏻‍💻 Continuously learning about Data Engineering, Big Data and Machine Learning.
+- 📖👨🏻‍💻 Continuously learning about Data Engineering, Data Science, Data Analysis, Big Data and Machine Learning.
 
 - 💡🏆 Solving problems and challenges on Kaggle.
   
