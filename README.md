@@ -20,7 +20,8 @@
 <hr />
 
 **<h2>Main Projects</h2>**
-- Data Science | Machine Learning Projects
+
+<!-- - Data Science | Machine Learning Projects
 <table>
   <thead>
     <tr>
@@ -209,7 +210,7 @@
     </tr>
   
   </tbody>
-  </table>
+  </table> -->
 								
 - Deep Reinforcement Learning
   * [Lunar Lander problem using Dueling DoubleDQN (D3QN)](https://github.com/EnriqManComp/Lunar-Lander-DRL-Dueling-DoubleDQN)
