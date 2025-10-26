@@ -6,8 +6,7 @@
 - 📖👨🏻‍💻 Continuously learning about Data Engineering, Data Science, Data Analysis, Big Data and Machine Learning.
 
 - 💡🏆 Solving problems and challenges on Kaggle.
--   
-<!-- 📝✍🏻 [Portfolio](https://enriqmancomp.github.io/) -->
+- [Portfolio: https://enriqmancomp.github.io/](https://enriqmancomp.github.io/)
 
 **<h3>Contact with me</h3>**
 
@@ -29,6 +28,24 @@
     </tr>
   </thead>
   <tbody>
+	<tr>
+    <td> Real Estate Data Warehouse & ETL </td>
+    <td> Data Engineering • SQL • Airflow • Python • Power BI </td>
+    <td>
+      <a href="https://github.com/EnriqManComp/real-estate-data-warehouse.git" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-gray.svg" alt="GitHub - Real Estate Data Warehouse & ETL"/>
+      </a>
+    </td>							
+    </tr>
+	<tr>
+    <td> Los Angeles Crime Analysis </td>
+    <td> Data Analysis • SQL • Tableau • Python </td>
+    <td>
+      <a href="https://github.com/EnriqManComp/LA_crime_project" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-gray.svg" alt="GitHub - Los Angeles Crime Analysis"/>
+      </a>
+    </td>							
+    </tr>
     <tr>
     <td> Two XGBoost + Learned Weights - [LB 0.976] </td>
     <td> Data Science | Data Analysis | Classification Problem</td>
@@ -37,7 +54,16 @@
         <img src="https://img.shields.io/badge/Kaggle-blue.svg" alt="Kaggle - Two XGBoost + Learned Weights - [LB 0.976]"/>
       </a>
     </td>							
-    </tr>    
+    </tr>
+	<tr>
+    <td> Dog Breed Classification (ResNet + InceptionV3) </td>
+    <td> Transfer Learning • PyTorch • Machine Learning </td>
+    <td>
+      <a href="https://www.kaggle.com/code/enriquecompanioni/dog-breed-classification-using-resnet-inceptionv3" target="_blank">
+        <img src="https://img.shields.io/badge/Kaggle-blue.svg" alt="GitHub - Dog Breed Classification "/>
+      </a>
+    </td>							
+    </tr>
     <tr>
     <td>House Price Prediction</td>
     <td>Data Science | Data Analysis | Regression Problem</td>
